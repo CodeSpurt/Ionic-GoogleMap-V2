@@ -2,10 +2,10 @@ This is a demonstration on how to use 'Google Map' in Ionic Framework.<br />
 
 <b>Version used:</b> 2<br /><br />
 <b>Plugins used:</b><br />
-ionic plugin add cordova-plugin-geolocation<br /><br />
+ionic plugin add cordova-plugin-geolocation<br />
 
 <b>NPM Install:</b><br />
-npm install --save @ionic-native/geolocation<br /><br />
+npm install --save @ionic-native/geolocation<br />
 
 See the screenshots below:<br />
 
